@@ -6,6 +6,6 @@
 + Email: cbrolegendz@gmail.com
 
 ### My Photo
-![Photo](https://github.com/LegendaryZReborn/Mwsu-2D-Gaming-Browne/blob/master/20160606_230119.jpg)
+![Photo](https://github.com/LegendaryZReborn/4103-101-OpSys-Browne/blob/master/WIN_20141030_215036.JPG)
 
 Operating System Class Repository
