@@ -1,19 +1,19 @@
 ### Bash Assignment:
 | #   | Item                                              | Value   | Earned   |                |
 |:----|:--------------------------------------------------|:--------|:---------|:---------------|
-| -   | ***General***                                     |         |          | ![Alt text][2] |
-| 1   | `Assignments` folder exists and in both locations | 10      |    10    | ![Alt text][2] |
-| 2   | Folder and files named correctly                  | 10      |    10    | ![Alt text][2] |
-| -   | ***Execution***                                   |         |          | ![Alt text][2] |
-| 3   | sum_args runs                                     | 10      |    10    | ![Alt text][2] |
-| 4   | sum_args output correct                           | 10      |    10    | ![Alt text][2] |
-| 3   | myrandom runs                                     | 10      |    10    | ![Alt text][2] |
-| 4   | myrandom output correct                           | 10      |     4    | ![Alt text][2] |
-| 3   | versiona runs                                     | 10      |     10   | ![Alt text][2] |
-| 4   | versiona output correct                           | 10      |     10   | ![Alt text][2] |
-| 3   | versionb runs                                     | 10      |     10   | ![Alt text][2] |
-| 4   | versionb output correct                           | 10      |     10   | ![Alt text][2] |
-|     | Totals:                                           | **100** |     94   | ![Alt text][2] |
+| -   | ***General***                                     |         |          | ![Alt text][1] |
+| 1   | `Assignments` folder exists and in both locations | 10      |    10    | ![Alt text][1] |
+| 2   | Folder and files named correctly                  | 10      |    10    | ![Alt text][1] |
+| -   | ***Execution***                                   |         |          | ![Alt text][1] |
+| 3   | sum_args runs                                     | 10      |    10    | ![Alt text][1] |
+| 4   | sum_args output correct                           | 10      |    10    | ![Alt text][1] |
+| 3   | myrandom runs                                     | 10      |    10    | ![Alt text][1] |
+| 4   | myrandom output correct                           | 10      |     4    | ![Alt text][3] |
+| 3   | versiona runs                                     | 10      |     10   | ![Alt text][1] |
+| 4   | versiona output correct                           | 10      |     10   | ![Alt text][1] |
+| 3   | versionb runs                                     | 10      |     10   | ![Alt text][1] |
+| 4   | versionb output correct                           | 10      |     10   | ![Alt text][1] |
+|     | Totals:                                           | **100** |     94   | ![Alt text][1] |
 ### Comments:
 ```
 Thanks! 
