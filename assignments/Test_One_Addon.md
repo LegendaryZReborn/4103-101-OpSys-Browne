@@ -8,7 +8,7 @@
 
 #####Review Questions From Chapters 3
 1.	What is an instruction trace?
--	A sequence of instructions that execute for a process.
+*A sequence of instructions that execute for a process.
 
 2.	What common events lead to the creation of a process?
 + New batch job
